@@ -1,0 +1,22 @@
+{
+  "name": "simple-store-vanilla-example",
+  "version": "1.0.0",
+  "description": "A project to demonstrate an example of the usage of @lesnock/simple-store",
+  "main": "index.js",
+  "repository": "https://github.com/Lesnock/simple-store-vanilla-example.git",
+  "author": "Caio Lesnock <caio.dev@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.9.0",
+    "@lesnock/simple-store": "^1.0.9"
+  },
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "devDependencies": {
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
