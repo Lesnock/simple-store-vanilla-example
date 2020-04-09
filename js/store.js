@@ -1,7 +1,7 @@
-import Store from '@lesnock/simple-store'
+import createStore from '@lesnock/simple-store'
 
 // localStorage
-const store = new Store({
+const store = createStore({
     persist: true,
 })
 

@@ -178,9 +178,9 @@
     to-fast-properties "^2.0.0"
 
 "@lesnock/simple-store@^1.0.12":
-  version "1.0.12"
-  resolved "https://registry.yarnpkg.com/@lesnock/simple-store/-/simple-store-1.0.12.tgz#66cfae201b2c293ff1aecdae472e161f2d1d8984"
-  integrity sha512-PYBC/4zQMc1/zF+Zct7cuK2DSw/UGpiAlFk8Cz1Y5jnn+SBMtli3i1KXQ6xItXlgXm0tvdCcS5BWKSxsSHr38w==
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@lesnock/simple-store/-/simple-store-1.1.1.tgz#786253290a2f1f67ad2b4969f224569cb32fb60e"
+  integrity sha512-RUzVxWjikYQ/VITOKtNXYXTrVF3qsL5wmyOAdJPXa0uDbvGbdAVRsDiFaVGTD/M2Ex0/A0WT8Vtq/S9cyfNODg==
 
 "@webassemblyjs/ast@1.9.0":
   version "1.9.0"
